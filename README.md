@@ -1,2 +1,3 @@
-# hey-ari.dev
+# heyari.dev
+
 Personal portfolio website
